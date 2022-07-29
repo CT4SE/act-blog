@@ -2,6 +2,7 @@
 title: "Hello World"
 date: 2022-07-29T14:25:17-04:00
 draft: true
+math: true
 
 ---
 

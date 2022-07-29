@@ -2,7 +2,7 @@ baseURL = 'https://CT4SE.github.io/act-blog'
 languageCode = 'en-us'
 title = 'NIST ACT Blog'
 
-theme = "m10c"
+theme = "hugo-PaperMod"
 paginate = 8
 
 
