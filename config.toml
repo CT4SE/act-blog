@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://nist-ct.github.io/act-blog"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
